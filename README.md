@@ -1,0 +1,1 @@
+# Scripts-de-ativa-o-do-Windows-e-do-Office
