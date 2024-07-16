@@ -1,0 +1,7 @@
+Scripts de ativação do Windows e do Office.
+
+Clique com o botão direito do mouse no menu Iniciar do Windows e selecione PowerShell ou Terminal.
+Copie e cole o código abaixo e pressione Enter. 
+
+
+irm https://get.activated.win | iex
